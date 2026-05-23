@@ -10,7 +10,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 175727,
       "trailer": "https://youtube.com/watch?v=zSWdZVtXT7E",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Christopher Nolan. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m2",
@@ -22,7 +22,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 208203,
       "trailer": "https://youtube.com/watch?v=uYPbbksJxIg",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Christopher Nolan. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m3",
@@ -34,7 +34,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 359680,
       "trailer": "https://youtube.com/watch?v=isOGD_7hNIY",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Bong Joon-ho. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m4",
@@ -46,7 +46,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 172226,
       "trailer": "https://youtube.com/watch?v=Way9Dexny3w",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Denis Villeneuve. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m5",
@@ -58,7 +58,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 398789,
       "trailer": "https://youtube.com/watch?v=EXeTwQWrcwY",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Christopher Nolan. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m6",
@@ -70,7 +70,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 77306,
       "trailer": "https://youtube.com/watch?v=TcMBFSGVi1c",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Anthony and Joe Russo. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m7",
@@ -82,7 +82,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 161137,
       "trailer": "https://youtube.com/watch?v=wxN1T1uxQ2g",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Daniel Kwan, Daniel Scheinert. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m8",
@@ -94,7 +94,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 123810,
       "trailer": "https://youtube.com/watch?v=LEjhY15eCx0",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kelsey Mann. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m9",
@@ -106,7 +106,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 262702,
       "trailer": "https://youtube.com/watch?v=73_1biulkYk",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Shawn Levy. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m10",
@@ -118,7 +118,7 @@ export const DATA = {
       "rating": 4.8,
       "votes": 315006,
       "trailer": "https://youtube.com/watch?v=4rgYUipGJNo",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Ridley Scott. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m11",
@@ -130,7 +130,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 117157,
       "trailer": "https://youtube.com/watch?v=d9MyW72ELq0",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By James Cameron. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m12",
@@ -142,7 +142,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 329867,
       "trailer": "https://youtube.com/watch?v=qSqVVswa420",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Joseph Kosinski. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m13",
@@ -154,7 +154,7 @@ export const DATA = {
       "rating": 4.5,
       "votes": 346152,
       "trailer": "https://youtube.com/watch?v=mqqft2x_Aa4",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Matt Reeves. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m14",
@@ -166,7 +166,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 404498,
       "trailer": "https://youtube.com/watch?v=shW9i6k8cB0",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Joaquim Dos Santos. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m15",
@@ -178,7 +178,7 @@ export const DATA = {
       "rating": 5,
       "votes": 395059,
       "trailer": "https://youtube.com/watch?v=pBk4NYhWNMM",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Greta Gerwig. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m16",
@@ -190,7 +190,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 204780,
       "trailer": "https://youtube.com/watch?v=qEVUtrk8_B4",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Chad Stahelski. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m17",
@@ -202,7 +202,7 @@ export const DATA = {
       "rating": 5,
       "votes": 215584,
       "trailer": "https://youtube.com/watch?v=hEJnMQG9ev8",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By George Miller. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m18",
@@ -214,7 +214,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 426464,
       "trailer": "https://youtube.com/watch?v=YoHD9XEInc0",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Christopher Nolan. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m19",
@@ -226,7 +226,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 207058,
       "trailer": "https://youtube.com/watch?v=zAGVQLHvwOY",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Todd Phillips. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m20",
@@ -238,7 +238,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 58608,
       "trailer": "https://youtube.com/watch?v=n9xhJrPXop4",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Denis Villeneuve. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m21",
@@ -250,7 +250,7 @@ export const DATA = {
       "rating": 0,
       "votes": 108348,
       "trailer": "https://youtube.com/watch?v=fsQgc9pCyDU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Christopher McQuarrie. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "m22",
@@ -262,7 +262,7 @@ export const DATA = {
       "rating": 0,
       "votes": 507538,
       "trailer": "https://youtube.com/watch?v=osYpGSz_0i4",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Bong Joon-ho. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "title": "Avatar: Fire and Ash",
@@ -270,7 +270,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Sci-Fi · Action",
       "id": "m812215261",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By James Cameron. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 258589,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
@@ -282,7 +282,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Action · Crime",
       "id": "m813065407",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Matt Reeves. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 453219,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NzhiYWUtYThlZi00OWIyLTk3YWEtZjY3NmJjOTZiZDAyXkEyXkFqcGc@._V1_SX300.jpg",
@@ -294,7 +294,7 @@ export const DATA = {
       "year": 2027,
       "genre": "Action · Sci-Fi",
       "id": "m813738333",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Russo Brothers. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 198871,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BYjc2N2YyY2QtZGI1Yy00MDZkLWEwMDktYTI2YWM2MTAyOGI5XkEyXkFqcGc@._V1_SX300.jpg",
@@ -307,7 +307,7 @@ export const DATA = {
       "genre": "Fantasy · Adventure",
       "rating": 4.9,
       "id": "m814375130",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Peter Jackson. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 6086,
       "poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "trailer": "https://youtube.com/watch?v=r5X-hFf6Bwo"
@@ -319,7 +319,7 @@ export const DATA = {
       "genre": "Crime · Drama",
       "rating": 4.8,
       "id": "m814905528",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Quentin Tarantino. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 1006,
       "poster": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
       "trailer": "https://youtube.com/watch?v=s7EdQ4FqbhY"
@@ -331,7 +331,7 @@ export const DATA = {
       "genre": "Drama · Romance",
       "rating": 4.8,
       "id": "m815588270",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Robert Zemeckis. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 4136,
       "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
       "trailer": "https://youtube.com/watch?v=bLvqoHBptjg"
@@ -343,7 +343,7 @@ export const DATA = {
       "rating": 2.1,
       "votes": 98450,
       "poster": "https://m.media-amazon.com/images/M/MV5BMjhkYjA0MGQtZTU3Mi00ZTIwLThmZmUtM2Y0YmU2YTI3YTY5XkEyXkFqcGc@._V1_SX300.jpg",
-      "desc": "Forced to confront revelations about her past, she must protect three young women from a deadly adversary.",
+      "desc": "By S.J. Clarkson. Forced to confront revelations about her past, she must protect three young women from a deadly adversary.",
       "id": "mi99bjgsse",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=s_76M4c4LTo"
@@ -355,7 +355,7 @@ export const DATA = {
       "rating": 2.5,
       "votes": 154000,
       "poster": "https://m.media-amazon.com/images/M/MV5BN2ZhOTI5YzUtZTZjNC00YzM4LWJiNGEtNzMwMGZhMjZkZTdmXkEyXkFqcGc@._V1_SX300.jpg",
-      "desc": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism.",
+      "desc": "By Daniel Espinosa. Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism.",
       "id": "me91zlzw7u",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=oZ6iiRrz1SY"
@@ -367,7 +367,7 @@ export const DATA = {
       "rating": 1.8,
       "votes": 55000,
       "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NjE5NDgtYTEzOS00YjNiLThlNGEtNmEyMjJhOTZlZTQwXkEyXkFqcGc@._V1_SX300.jpg",
-      "desc": "A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer.",
+      "desc": "By Tom Hooper. A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer.",
       "id": "m2ysfhaoo3",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=FtSd844cI7U"
@@ -379,7 +379,7 @@ export const DATA = {
       "rating": 1.5,
       "votes": 95000,
       "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MTU1MzgwOV5BMl5BanBnXkFtZTcwNjM1MTAwMQ@@._V1_SX300.jpg",
-      "desc": "Johnny is a successful bank executive who lives quietly in a San Francisco townhouse with his fiancée, Lisa.",
+      "desc": "By Tommy Wiseau. Johnny is a successful bank executive who lives quietly in a San Francisco townhouse with his fiancée, Lisa.",
       "id": "mzurc0w5yh",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=ZO0MXSX7zvg"
@@ -391,7 +391,7 @@ export const DATA = {
       "rating": 3.1,
       "votes": 289000,
       "poster": "https://m.media-amazon.com/images/M/MV5BMTMyMTg3OTM5Ml5BMl5BanBnXkFtZTcwNzczMjEyNQ@@._V1_SX300.jpg",
-      "desc": "Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers.",
+      "desc": "By Martin Campbell. Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers.",
       "id": "mrulu5toxg",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=XmcIjxwLJcY"
@@ -403,7 +403,7 @@ export const DATA = {
       "rating": 3.4,
       "votes": 210000,
       "poster": "https://m.media-amazon.com/images/M/MV5BZmUyZmJmNWItMTJhMi00NjQ4LWJkYTMtNWY5NGVjMTMxNzFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "desc": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes.",
+      "desc": "By Andy Muschietti. Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes.",
       "id": "mt9w62zujs",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=hebWYacbdvc"
@@ -421,7 +421,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 80518,
       "trailer": "https://youtube.com/watch?v=LV-nazLVmgo",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Hajime Isayama / WIT / MAPPA. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a2",
@@ -434,7 +434,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 393785,
       "trailer": "https://youtube.com/watch?v=-GoNo0DGroU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Hiromu Arakawa / Bones. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a3",
@@ -447,7 +447,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 176854,
       "trailer": "https://youtube.com/watch?v=x7uLutVRBfI",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Koyoharu Gotouge / Ufotable. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a4",
@@ -460,7 +460,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 254979,
       "trailer": "https://youtube.com/watch?v=pkKu9hLT-t8",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Gege Akutami / MAPPA. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a5",
@@ -473,7 +473,7 @@ export const DATA = {
       "rating": 5,
       "votes": 147727,
       "trailer": "https://youtube.com/watch?v=Ades3pQbeh8",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Eiichiro Oda / Toei. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a6",
@@ -486,7 +486,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 240313,
       "trailer": "https://youtube.com/watch?v=ofXigq9aIpo",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Tatsuya Endo / WIT / CloverWorks. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a7",
@@ -499,7 +499,7 @@ export const DATA = {
       "rating": 5,
       "votes": 257237,
       "trailer": "https://youtube.com/watch?v=j9sSzNmB5po",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Tatsuki Fujimoto / MAPPA. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a8",
@@ -512,7 +512,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 418978,
       "trailer": "https://youtube.com/watch?v=f8JrZ7Q_p-8",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Makoto Yukimura / WIT / MAPPA. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a9",
@@ -525,7 +525,7 @@ export const DATA = {
       "rating": 4.8,
       "votes": 61790,
       "trailer": "https://youtube.com/watch?v=IVsII3dLbWc",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Muneyuki Kaneshiro / Eight Bit. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a10",
@@ -538,7 +538,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 410691,
       "trailer": "https://youtube.com/watch?v=I6JIwjWOhnQ",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Chugong / A-1 Pictures. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a11",
@@ -551,7 +551,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 320337,
       "trailer": "https://youtube.com/watch?v=Iwr1aLEDpe4",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kanehito Yamada / Madhouse. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a12",
@@ -564,7 +564,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 432309,
       "trailer": "https://youtube.com/watch?v=NlJZ-YgAt-c",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Tsugumi Ohba / Madhouse. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a13",
@@ -577,7 +577,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 52733,
       "trailer": "https://youtube.com/watch?v=d6kBeJjTGnY",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Yoshihiro Togashi / Madhouse. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a14",
@@ -590,7 +590,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 160208,
       "trailer": "https://youtube.com/watch?v=22R0j8UKRzY",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Masashi Kishimoto / Pierrot. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a15",
@@ -603,7 +603,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 249976,
       "trailer": "https://youtube.com/watch?v=pxbEWUjh6E4",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kohei Horikoshi / Bones. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a16",
@@ -616,7 +616,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 74182,
       "trailer": "https://youtube.com/watch?v=uMYhjVwp0Fk",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Chiyomaru Shikura / White Fox. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a17",
@@ -629,7 +629,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 427380,
       "trailer": "https://youtube.com/watch?v=nTze7vAdRpM",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By ONE / Bones. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a18",
@@ -642,7 +642,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 416096,
       "trailer": "https://youtube.com/watch?v=YUH1mfV3IEU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By ONE / Madhouse. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a19",
@@ -655,7 +655,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 384971,
       "trailer": "https://youtube.com/watch?v=JtqIas3bYhg",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Trigger. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a20",
@@ -668,7 +668,7 @@ export const DATA = {
       "rating": 4.8,
       "votes": 139414,
       "trailer": "https://youtube.com/watch?v=ULCIHP5dc44",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Shinichiro Watanabe / Sunrise. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a21",
@@ -681,7 +681,7 @@ export const DATA = {
       "rating": 0,
       "votes": 364008,
       "trailer": "https://youtube.com/watch?v=9TbmxbckSjE",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Yuto Suzuki. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "a22",
@@ -694,7 +694,7 @@ export const DATA = {
       "rating": 5,
       "votes": 180264,
       "trailer": "https://youtube.com/watch?v=0XJxfbN36Uw",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Yukinobu Tatsu / Science SARU. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "title": "One Punch Man Season 3",
@@ -702,7 +702,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Action · Comedy",
       "id": "a820317745",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By ONE / J.C.Staff. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 386639,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BNzMwOGQ5MWItNzE3My00ZDYyLTk4NzAtZWIyYWI0NTZhYzY0XkEyXkFqcGc@._V1_SX300.jpg",
@@ -714,7 +714,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Action · Supernatural",
       "id": "a820917723",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Gege Akutami / MAPPA. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 355199,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BMjBlNTExMDAtMWZjZi00MDc5LWFkMjgtZDU0ZWQ5ODk3YWY5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
@@ -726,7 +726,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Action · Fantasy",
       "id": "a821431173",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Koyoharu Gotouge / Ufotable. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 234316,
       "rating": 0,
       "poster": "https://picsum.photos/seed/a821431173/300/450",
@@ -739,7 +739,7 @@ export const DATA = {
       "genre": "Mecha · Thriller",
       "rating": 4.8,
       "id": "a822068562",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Sunrise. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 4758,
       "poster": "https://m.media-amazon.com/images/M/MV5BNTk4MWYwNmUtODFjNC00NWJhLWExNGYtMGU4YmRlNzEwOTY1XkEyXkFqcGc@._V1_SX300.jpg",
       "trailer": "https://youtube.com/watch?v=ulQGo6X7kFo"
@@ -751,7 +751,7 @@ export const DATA = {
       "genre": "Mecha · Psychological",
       "rating": 4.8,
       "id": "a822662491",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Hideaki Anno / Gainax. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 2707,
       "poster": "https://m.media-amazon.com/images/M/MV5BZjZjZGI3ZDQtODNmZC00NjE0LTlmYTUtOTljMWI2YjNmMTQ0XkEyXkFqcGc@._V1_SX300.jpg",
       "trailer": "https://youtube.com/watch?v=13nSISwxrY4"
@@ -763,7 +763,7 @@ export const DATA = {
       "genre": "Romance · Supernatural",
       "rating": 4.9,
       "id": "a823185110",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Makoto Shinkai / CoMix Wave Films. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 4440,
       "poster": "https://m.media-amazon.com/images/M/MV5BYzY1OWZiN2YtMWU3My00M2YyLWI1M2EtNTljMTMwMzM5NDQ0XkEyXkFqcGc@._V1_SX300.jpg",
       "trailer": "https://youtube.com/watch?v=xU47nhruN-Q"
@@ -775,7 +775,7 @@ export const DATA = {
       "rating": 1.4,
       "votes": 25000,
       "poster": "https://cdn.myanimelist.net/images/anime/1162/111025l.jpg",
-      "desc": "A high schooler's brain is used as part of a highly advanced weapon.",
+      "desc": "By Visual Flight. A high schooler's brain is used as part of a highly advanced weapon.",
       "id": "a5t2ao2ut0",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=0jCPQe9g-TE"
@@ -787,7 +787,7 @@ export const DATA = {
       "rating": 1.6,
       "votes": 45000,
       "poster": "https://cdn.myanimelist.net/images/anime/3/54823l.jpg",
-      "desc": "A boy and his younger sister who becomes a flesh-eating monster.",
+      "desc": "By Studio Deen. A boy and his younger sister who becomes a flesh-eating monster.",
       "id": "ahyafxk8f2",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=QtyvFl7W1Vs"
@@ -799,7 +799,7 @@ export const DATA = {
       "rating": 2.8,
       "votes": 120000,
       "poster": "https://cdn.myanimelist.net/images/anime/11/75553l.jpg",
-      "desc": "A love triangle spirals out of control with disastrous consequences.",
+      "desc": "By TNK. A love triangle spirals out of control with disastrous consequences.",
       "id": "a8t0stfwjd",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=V2qtYM3xja4"
@@ -811,7 +811,7 @@ export const DATA = {
       "rating": 3.5,
       "votes": 900000,
       "poster": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg",
-      "desc": "Players of a virtual reality MMORPG find themselves trapped in the game.",
+      "desc": "By Reki Kawahara / A-1 Pictures. Players of a virtual reality MMORPG find themselves trapped in the game.",
       "id": "abda0qmk8n",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=6ohYYtxfDCg"
@@ -828,7 +828,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 63102,
       "trailer": "https://youtube.com/watch?v=GVQGWgeVc4k",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Park Ji-eun / Lee Jung-hyo. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k2",
@@ -840,7 +840,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 407564,
       "trailer": "https://youtube.com/watch?v=oqxAJKy0ii4",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Hwang Dong-hyuk. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k3",
@@ -852,7 +852,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 398900,
       "trailer": "https://youtube.com/watch?v=Ed1sGgHUo88",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Hwang Dong-hyuk. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k4",
@@ -864,7 +864,7 @@ export const DATA = {
       "rating": 5,
       "votes": 303725,
       "trailer": "https://youtube.com/watch?v=f-Eaa3f3gDo",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Park Hae-young / Kim Won-seok. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k5",
@@ -876,7 +876,7 @@ export const DATA = {
       "rating": 4,
       "votes": 292034,
       "trailer": "https://youtube.com/watch?v=1H__LNPCc80",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Jo Yong / Park Shin-woo. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k6",
@@ -888,7 +888,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 54393,
       "trailer": "https://youtube.com/watch?v=_J8tYxYB_YU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Park Jae-bum / Kim Hee-won. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k7",
@@ -900,7 +900,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 425652,
       "trailer": "https://youtube.com/watch?v=MxeXECe2t-c",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Moon Ji-won / Yoo In-shik. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k8",
@@ -913,7 +913,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 444717,
       "trailer": "https://youtube.com/watch?v=S94ukM8C17A",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kim Eun-sook / Lee Eung-bok. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k9",
@@ -925,7 +925,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 340292,
       "trailer": "https://youtube.com/watch?v=Gg2D8zrzlOA",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Park Ji-eun / Jang Young-woo. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k10",
@@ -937,7 +937,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 396881,
       "trailer": "https://youtube.com/watch?v=5kk0dYa8Ccc",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Lee Si-eun / Yoon Jong-ho. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k11",
@@ -949,7 +949,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 100765,
       "trailer": "https://youtube.com/watch?v=c-EMf3JdxUA",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Lee Woo-jung / Shin Won-ho. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k12",
@@ -961,7 +961,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 325132,
       "trailer": "https://youtube.com/watch?v=tqVVrTvrI8U",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kim Eun-sook / Ahn Gil-ho. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k13",
@@ -973,7 +973,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 369706,
       "trailer": "https://youtube.com/watch?v=mh4R-WXRhQo",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Han Seol-hee / Park Seon-ho. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k14",
@@ -985,7 +985,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 66200,
       "trailer": "https://youtube.com/watch?v=gYp4cKumTwU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kwon Do-eun / Jung Ji-hyun. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k15",
@@ -997,7 +997,7 @@ export const DATA = {
       "rating": 4.8,
       "votes": 269141,
       "trailer": "https://youtube.com/watch?v=rPJSo4fhtRU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kim Eun-sook / Lee Eung-bok. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k16",
@@ -1009,7 +1009,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 366030,
       "trailer": "https://youtube.com/watch?v=xqIM2cenBAs",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Lee Woo-jung / Shin Won-ho. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k17",
@@ -1021,7 +1021,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 173090,
       "trailer": "https://youtube.com/watch?v=lcqXfNzoICc",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kim Eun-hee / Kim Won-seok. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k18",
@@ -1033,7 +1033,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 261139,
       "trailer": "https://youtube.com/watch?v=wkHjOTFv60g",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kim Eun-sook / Lee Eung-bok. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k19",
@@ -1045,7 +1045,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 156613,
       "trailer": "https://youtube.com/watch?v=NeaHNQJ1kCo",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kwang Jin / Kim Sung-yoon. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k20",
@@ -1057,7 +1057,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 175919,
       "trailer": "https://youtube.com/watch?v=SZFRw7MSPog",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kang Full / Park In-je. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k21",
@@ -1069,7 +1069,7 @@ export const DATA = {
       "rating": 0,
       "votes": 288239,
       "trailer": "https://youtube.com/watch?v=OkYT-T500AE",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Seo Sook-hyang / Park Shin-woo. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "k22",
@@ -1082,7 +1082,7 @@ export const DATA = {
       "rating": 0,
       "votes": 259700,
       "trailer": "https://youtube.com/watch?v=f_bKjZeJBBI",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Unknown. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "title": "All of Us Are Dead Season 2",
@@ -1090,7 +1090,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Horror · Thriller",
       "id": "k823786688",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Chun Sung-il / Lee Jae-kyoo. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 300072,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BZDY4ZmZhNzMtNjdkMC00NTE3LWFjYzQtOGE4OTllOGY1NTk5XkEyXkFqcGc@._V1_SX300.jpg",
@@ -1102,7 +1102,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Thriller · Survival",
       "id": "k824380390",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Hwang Dong-hyuk. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 253298,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
@@ -1114,7 +1114,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Historical · Thriller",
       "id": "k82491382",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Kang Eun-kyung / Chung Dong-yoon. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 505508,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BMWI1N2I5ZGQtNTFkMC00MjIxLTgxNTQtZTgzNDU2YjhkN2JkXkEyXkFqcGc@._V1_SX300.jpg",
@@ -1127,7 +1127,7 @@ export const DATA = {
       "genre": "Action · Crime",
       "rating": 4.7,
       "id": "k825421513",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Kim Ba-da / Kim Jin-min. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 6210,
       "poster": "https://m.media-amazon.com/images/M/MV5BN2ZiZWU3MzMtNGM5OC00ZWVkLTkxNjUtMTYwZGU4MzgxYzk0XkEyXkFqcGc@._V1_SX300.jpg",
       "trailer": "https://youtube.com/watch?v=MaJ7ZT70ve4"
@@ -1139,7 +1139,7 @@ export const DATA = {
       "genre": "Romance · Comedy",
       "rating": 4.7,
       "id": "k825942592",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Yang Hee-seung / Yoo Je-won. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 8144,
       "poster": "https://m.media-amazon.com/images/M/MV5BZGE1ODM5MjktMGY0MS00NjA4LWFiOWItN2ZhZTYzN2RmNmM2XkEyXkFqcGc@._V1_SX300.jpg",
       "trailer": "https://youtube.com/watch?v=M0roNIisQ5w"
@@ -1151,7 +1151,7 @@ export const DATA = {
       "genre": "Action · Thriller",
       "rating": 4.8,
       "id": "k826474129",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Kim Joo-hwan. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 5898,
       "poster": "https://m.media-amazon.com/images/M/MV5BYjhjZmYwYjItYjA1Yy00NzkwLTk1OWMtZjYzZTg2MWFiYmFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "trailer": "https://youtube.com/watch?v=eyiR8pO50JE"
@@ -1163,7 +1163,7 @@ export const DATA = {
       "rating": 2.8,
       "votes": 15000,
       "poster": "https://static.tvmaze.com/uploads/images/original_untouched/10/25695.jpg",
-      "desc": "A vampire works as a doctor in a hospital.",
+      "desc": "By Park Jae-bum / Ki Min-soo. A vampire works as a doctor in a hospital.",
       "id": "ks5539qe48",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=uEE7HqPvqOg"
@@ -1175,7 +1175,7 @@ export const DATA = {
       "rating": 3.1,
       "votes": 20000,
       "poster": "https://static.tvmaze.com/uploads/images/original_untouched/213/532986.jpg",
-      "desc": "Two people take part in a 24-hour freezing project but wake up 20 years later.",
+      "desc": "By Baek Mi-kyung / Shin Woo-chul. Two people take part in a 24-hour freezing project but wake up 20 years later.",
       "id": "kf28g11mnh",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=QYHEGEAy6Hc"
@@ -1187,7 +1187,7 @@ export const DATA = {
       "rating": 2.9,
       "votes": 25000,
       "poster": "https://static.tvmaze.com/uploads/images/original_untouched/120/301540.jpg",
-      "desc": "A water god visits earth to find a magical stone.",
+      "desc": "By Jung Yoon-jung / Kim Byung-soo. A water god visits earth to find a magical stone.",
       "id": "krt8vdlj7y",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=rfW5BWMjX6k"
@@ -1204,7 +1204,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 102744,
       "trailer": "https://youtube.com/watch?v=HhesaQXLuRY",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Vince Gilligan. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s2",
@@ -1216,7 +1216,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 64037,
       "trailer": "https://youtube.com/watch?v=b9EkMc79ZSU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By The Duffer Brothers. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s3",
@@ -1228,7 +1228,7 @@ export const DATA = {
       "rating": 4.5,
       "votes": 355039,
       "trailer": "https://youtube.com/watch?v=KPLWWIOCOOQ",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By David Benioff, D.B. Weiss. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s4",
@@ -1240,7 +1240,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 246408,
       "trailer": "https://youtube.com/watch?v=uLtkt8BonwM",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Craig Mazin, Neil Druckmann. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s5",
@@ -1252,7 +1252,7 @@ export const DATA = {
       "rating": 4.5,
       "votes": 398133,
       "trailer": "https://youtube.com/watch?v=5X1dMFuHZhc",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Ryan Condal, George R. R. Martin. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s6",
@@ -1264,7 +1264,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 97864,
       "trailer": "https://youtube.com/watch?v=Di310WS8zLk",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Alfred Gough, Miles Millar. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s7",
@@ -1276,7 +1276,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 309652,
       "trailer": "https://youtube.com/watch?v=gBmkI4jlaIo",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Christopher Storer. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s8",
@@ -1288,7 +1288,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 195765,
       "trailer": "https://youtube.com/watch?v=yAN5uspO_hk",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Rachel Kondo, Justin Marks. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s9",
@@ -1300,7 +1300,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 63762,
       "trailer": "https://youtube.com/watch?v=xEQP4VVuyrY",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Dan Erickson. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s10",
@@ -1312,7 +1312,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 208749,
       "trailer": "https://youtube.com/watch?v=TGLq7_MonZ4",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Mike White. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s11",
@@ -1324,7 +1324,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 350506,
       "trailer": "https://youtube.com/watch?v=rrwycJ08PSA",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Baran bo Odar, Jantje Friese. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s12",
@@ -1336,7 +1336,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 67666,
       "trailer": "https://youtube.com/watch?v=lcvUGs3xaDM",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Steven Knight. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s13",
@@ -1348,7 +1348,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 105321,
       "trailer": "https://youtube.com/watch?v=5hAXVqrljbs",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Bill Dubuque, Mark Williams. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s14",
@@ -1360,7 +1360,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 251561,
       "trailer": "https://youtube.com/watch?v=HN4oydykJFc",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Vince Gilligan, Peter Gould. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s15",
@@ -1372,7 +1372,7 @@ export const DATA = {
       "rating": 4.8,
       "votes": 145834,
       "trailer": "https://youtube.com/watch?v=-qIlCo9yqpY",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Charlie Brooker. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s16",
@@ -1384,7 +1384,7 @@ export const DATA = {
       "rating": 4.5,
       "votes": 112334,
       "trailer": "https://youtube.com/watch?v=OzYxJV_rmE8",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Jesse Armstrong. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s17",
@@ -1396,7 +1396,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 148676,
       "trailer": "https://youtube.com/watch?v=M1bhOaLV4FU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Eric Kripke. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s18",
@@ -1408,7 +1408,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 429295,
       "trailer": "https://youtube.com/watch?v=s9APLXM9Ei8",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Craig Mazin. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s19",
@@ -1420,7 +1420,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 347109,
       "trailer": "https://youtube.com/watch?v=fVQUcaO4AvE",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Nic Pizzolatto. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s20",
@@ -1432,7 +1432,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 84843,
       "trailer": "https://youtube.com/watch?v=ju75Sd4yAZw",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Noah Hawley. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s21",
@@ -1444,7 +1444,7 @@ export const DATA = {
       "rating": 0,
       "votes": 250779,
       "trailer": "https://youtube.com/watch?v=7xALolZzhSM",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Dario Scardapane. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "s22",
@@ -1457,7 +1457,7 @@ export const DATA = {
       "rating": 0,
       "votes": 311602,
       "trailer": "https://youtube.com/watch?v=uwild1rw7Aw",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Jon Favreau. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "title": "Stranger Things Season 5",
@@ -1465,7 +1465,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Sci-Fi · Horror",
       "id": "s816211728",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By The Duffer Brothers. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 136785,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
@@ -1477,7 +1477,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Drama · Post-Apocalyptic",
       "id": "s817023105",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Craig Mazin, Neil Druckmann. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 425845,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
@@ -1489,7 +1489,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Drama",
       "id": "s817651706",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Sam Levinson. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 274114,
       "rating": 0,
       "poster": "https://m.media-amazon.com/images/M/MV5BYzg5MTVmNjgtMGQ3Zi00YThlLWFjMzgtYzc2NGUyMzE2MWQ1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
@@ -1502,7 +1502,7 @@ export const DATA = {
       "genre": "Crime · Drama",
       "rating": 4.9,
       "id": "s818362141",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By David Simon. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 2310,
       "poster": "https://m.media-amazon.com/images/M/MV5BZWYyNmRhYjktNjBhNC00M2NhLWEzYmMtZDYwNmIyZTRiZWMzXkEyXkFqcGc@._V1_SX300.jpg",
       "trailer": "https://youtube.com/watch?v=1S5khOZ1wBs"
@@ -1514,7 +1514,7 @@ export const DATA = {
       "genre": "Crime · Drama",
       "rating": 4.9,
       "id": "s818983409",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By David Chase. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 3471,
       "poster": "https://m.media-amazon.com/images/M/MV5BMjRmMTNiMTQtMDg1ZS00MGM1LWE1MGUtYjEzMGFjNWUzOWRkXkEyXkFqcGc@._V1_SX300.jpg",
       "trailer": "https://youtube.com/watch?v=KMx4iFcozK0"
@@ -1526,7 +1526,7 @@ export const DATA = {
       "genre": "War · Drama",
       "rating": 5,
       "id": "s819697741",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Tom Hanks, Steven Spielberg. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 8665,
       "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_SX300.jpg",
       "trailer": "https://youtube.com/watch?v=KKRBAFlN5ww"
@@ -1538,7 +1538,7 @@ export const DATA = {
       "rating": 2.1,
       "votes": 75000,
       "poster": "https://m.media-amazon.com/images/M/MV5BMjY5M2ZlMTctZGY3OS00ZmIyLWE5NWEtZWQzNDhmNDliYmMzXkEyXkFqcGc@._V1_SX300.jpg",
-      "desc": "Jocelyn, a pop idol, tries to reclaim her title as the sexiest pop star in America.",
+      "desc": "By Sam Levinson. Jocelyn, a pop idol, tries to reclaim her title as the sexiest pop star in America.",
       "id": "s3rh7mkj0i",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=xVYUKxF0wMc"
@@ -1550,7 +1550,7 @@ export const DATA = {
       "rating": 1.1,
       "votes": 105000,
       "poster": "https://m.media-amazon.com/images/M/MV5BMjZlYTcwZWYtMWQ1Yy00MDkxLWJmODgtYmVkMWJkODRlODJiXkEyXkFqcGc@._V1_SX300.jpg",
-      "desc": "The origin story of Velma Dinkley, the unsung and under-appreciated brains of the Scooby-Doo Mystery Inc. gang.",
+      "desc": "By Charlie Grandy. The origin story of Velma Dinkley, the unsung and under-appreciated brains of the Scooby-Doo Mystery Inc. gang.",
       "id": "sb0roobmrt",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=KfaGnvgBHXE"
@@ -1562,7 +1562,7 @@ export const DATA = {
       "rating": 2.3,
       "votes": 65000,
       "poster": "https://m.media-amazon.com/images/M/MV5BOGJmNGY1MGQtMzg5Mi00MjhkLThhOTctZTAyN2YxNjRlNmFiXkEyXkFqcGc@._V1_SX300.jpg",
-      "desc": "An isolated community of superhumans fight to protect themselves.",
+      "desc": "By Scott Buck. An isolated community of superhumans fight to protect themselves.",
       "id": "swate09ul9",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=1sYF1SXcWqQ"
@@ -1574,7 +1574,7 @@ export const DATA = {
       "rating": 3.4,
       "votes": 150000,
       "poster": "https://m.media-amazon.com/images/M/MV5BMTY3YWVjNGMtZjBhOS00NjdmLThhMmYtOWE5MGJiYmUyYmVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "desc": "A young American woman from the Midwest is hired by a marketing firm in Paris.",
+      "desc": "By Darren Star. A young American woman from the Midwest is hired by a marketing firm in Paris.",
       "id": "ss326c2f75",
       "status": "released",
       "trailer": "https://youtube.com/watch?v=lptctjAT-Mk"
@@ -1591,7 +1591,7 @@ export const DATA = {
       "rating": 4.5,
       "votes": 63625,
       "trailer": "https://youtube.com/watch?v=GxpwjCpWgJ0",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By James Clear. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b2",
@@ -1603,7 +1603,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 101874,
       "trailer": "https://youtube.com/watch?v=w329tguI51E",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Paulo Coelho. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b3",
@@ -1615,7 +1615,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 162662,
       "trailer": "https://youtube.com/watch?v=m08TxIsFTRI",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Andy Weir. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b4",
@@ -1627,7 +1627,7 @@ export const DATA = {
       "rating": 4.8,
       "votes": 421080,
       "trailer": "https://youtube.com/watch?v=vcybDwT6Ia4",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Rebecca Yarros. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b5",
@@ -1639,7 +1639,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 195574,
       "trailer": "https://youtube.com/watch?v=BDVD7NY9yQ8",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Héctor García, Francesc Miralles. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b6",
@@ -1651,7 +1651,7 @@ export const DATA = {
       "rating": 4.8,
       "votes": 93427,
       "trailer": "https://youtube.com/watch?v=to2PE0qkQdA",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Tara Westover. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b7",
@@ -1663,7 +1663,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 219851,
       "trailer": "https://youtube.com/watch?v=k2hIfLgaPxI",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Matt Haig. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b8",
@@ -1675,7 +1675,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 146620,
       "trailer": "https://youtube.com/watch?v=NUs4k3eRK3Q",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Sarah J. Maas. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b9",
@@ -1687,7 +1687,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 325432,
       "trailer": "https://youtube.com/watch?v=HmtnVk5nEEI",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Colleen Hoover. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b10",
@@ -1699,7 +1699,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 127568,
       "trailer": "https://youtube.com/watch?v=Taj1_AV26Mo",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Sally Rooney. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b11",
@@ -1711,7 +1711,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 244551,
       "trailer": "https://youtube.com/watch?v=mwhIOw73qBw",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Brandon Sanderson. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b12",
@@ -1723,7 +1723,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 177376,
       "trailer": "https://youtube.com/watch?v=yhYU4ZbLmmk",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Denis Villeneuve. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b13",
@@ -1735,7 +1735,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 222092,
       "trailer": "https://youtube.com/watch?v=T8BA7adK6XA",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By George Orwell. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b14",
@@ -1747,7 +1747,7 @@ export const DATA = {
       "rating": 5,
       "votes": 110367,
       "trailer": "https://youtube.com/watch?v=ej3ioOneTy8",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Andy Weir. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b15",
@@ -1759,7 +1759,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 344423,
       "trailer": "https://youtube.com/watch?v=hfbI14Mr3wQ",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Yuval Noah Harari. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b16",
@@ -1771,7 +1771,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 366720,
       "trailer": "https://youtube.com/watch?v=uqXVAo7dVRU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Daniel Kahneman. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b17",
@@ -1783,7 +1783,7 @@ export const DATA = {
       "rating": 4.4,
       "votes": 271522,
       "trailer": "https://youtube.com/watch?v=rARN6agiW7o",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By F. Scott Fitzgerald. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b18",
@@ -1795,7 +1795,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 441513,
       "trailer": "https://youtube.com/watch?v=RDOHJVCai50",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Harper Lee. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b19",
@@ -1807,7 +1807,7 @@ export const DATA = {
       "rating": 4.9,
       "votes": 369850,
       "trailer": "https://youtube.com/watch?v=Ur_DIHs92NM",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Jane Austen. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b20",
@@ -1819,7 +1819,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 107330,
       "trailer": "https://youtube.com/watch?v=P0vVuOVDclY",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By J.R.R. Tolkien. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b21",
@@ -1831,7 +1831,7 @@ export const DATA = {
       "rating": 0,
       "votes": 150795,
       "trailer": "https://youtube.com/watch?v=8RwmAl_K-Xg",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Rebecca Yarros. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "b22",
@@ -1843,7 +1843,7 @@ export const DATA = {
       "rating": 0,
       "votes": 108551,
       "trailer": "https://youtube.com/watch?v=fimHmIKZwJc",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By George R. R. Martin. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "title": "The Doors of Stone",
@@ -1851,7 +1851,7 @@ export const DATA = {
       "year": "TBD",
       "genre": "Fantasy",
       "id": "b826989331",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Patrick Rothfuss. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 156450,
       "rating": 0,
       "poster": "https://picsum.photos/seed/TheDoorsofStone/300/450",
@@ -1863,7 +1863,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Sci-Fi · Fantasy",
       "id": "b827145158",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Tamsyn Muir. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 575294,
       "rating": 0,
       "poster": "https://picsum.photos/seed/AlectotheNinth/300/450",
@@ -1875,7 +1875,7 @@ export const DATA = {
       "year": "TBD",
       "genre": "Fantasy",
       "id": "b827298443",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Brandon Sanderson. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 450127,
       "rating": 0,
       "poster": "https://picsum.photos/seed/StormlightArchive6/300/450",
@@ -1893,7 +1893,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 437123,
       "trailer": "https://youtube.com/watch?v=q3zqJs7JUCQ",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Taylor Swift. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu2",
@@ -1905,7 +1905,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 168521,
       "trailer": "https://youtube.com/watch?v=238Z4YaAr1g",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Beyoncé. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu3",
@@ -1917,7 +1917,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 259911,
       "trailer": "https://youtube.com/watch?v=D7liwdjvhWc",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kendrick Lamar. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu4",
@@ -1929,7 +1929,7 @@ export const DATA = {
       "rating": 4.5,
       "votes": 138428,
       "trailer": "https://youtube.com/watch?v=eVli-tstM5E",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Sabrina Carpenter. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu5",
@@ -1941,7 +1941,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 157674,
       "trailer": "https://youtube.com/watch?v=0DXnhzT_jIQ",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Olivia Rodrigo. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu6",
@@ -1953,7 +1953,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 143498,
       "trailer": "https://youtube.com/watch?v=IXmF4GbA86E",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By SZA. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu7",
@@ -1965,7 +1965,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 345912,
       "trailer": "https://youtube.com/watch?v=h8DLofLM7No",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Taylor Swift. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu8",
@@ -1977,7 +1977,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 71334,
       "trailer": "https://youtube.com/watch?v=09z3qcegpHU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Beyoncé. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu9",
@@ -1989,7 +1989,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 260706,
       "trailer": "https://youtube.com/watch?v=H5v3kku4y6Q",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Harry Styles. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu10",
@@ -2001,7 +2001,7 @@ export const DATA = {
       "rating": 4.2,
       "votes": 416938,
       "trailer": "https://youtube.com/watch?v=d846WI05ySU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Billie Eilish. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu11",
@@ -2013,7 +2013,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 392157,
       "trailer": "https://youtube.com/watch?v=xSztYRqv85w",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Charli XCX. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu12",
@@ -2025,7 +2025,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 79299,
       "trailer": "https://youtube.com/watch?v=M_JiMkVx0FU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Taylor Swift. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu13",
@@ -2037,7 +2037,7 @@ export const DATA = {
       "rating": 4.5,
       "votes": 294011,
       "trailer": "https://youtube.com/watch?v=58hoktsqk_Q",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Lady Gaga. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu14",
@@ -2049,7 +2049,7 @@ export const DATA = {
       "rating": 4.6,
       "votes": 346605,
       "trailer": "https://youtube.com/watch?v=8EJ-vZyBzOQ",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Dua Lipa. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu15",
@@ -2061,7 +2061,7 @@ export const DATA = {
       "rating": 4.7,
       "votes": 304453,
       "trailer": "https://youtube.com/watch?v=v5PZw1Wr-l0",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By The Weeknd. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu16",
@@ -2073,7 +2073,7 @@ export const DATA = {
       "rating": 4.1,
       "votes": 293872,
       "trailer": "https://youtube.com/watch?v=K-a8s8OLBSE",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Taylor Swift. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu17",
@@ -2085,7 +2085,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 338169,
       "trailer": "https://youtube.com/watch?v=6ONRf7h3Mdk",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Travis Scott. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu18",
@@ -2097,7 +2097,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 299567,
       "trailer": "https://youtube.com/watch?v=rkRdgFvuiYk",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Tyler, The Creator. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu19",
@@ -2109,7 +2109,7 @@ export const DATA = {
       "rating": 4.3,
       "votes": 301377,
       "trailer": "https://youtube.com/watch?v=WGU_4-5RaxU",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Frank Ocean. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu20",
@@ -2121,7 +2121,7 @@ export const DATA = {
       "rating": 4.8,
       "votes": 70207,
       "trailer": "https://youtube.com/watch?v=_ZTYgq4EoRo",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Kendrick Lamar. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu21",
@@ -2133,7 +2133,7 @@ export const DATA = {
       "rating": 0,
       "votes": 244044,
       "trailer": "https://youtube.com/watch?v=wIft-t-MQuE",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Taylor Swift. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "id": "mu22",
@@ -2145,7 +2145,7 @@ export const DATA = {
       "rating": 0,
       "votes": 100096,
       "trailer": "https://youtube.com/watch?v=fKah7Evrb1Y",
-      "desc": "An incredible experience full of twists and turns. Not to be missed."
+      "desc": "By Lana Del Rey. An incredible experience full of twists and turns. Not to be missed."
     },
     {
       "title": "LG7 (Lady Gaga)",
@@ -2153,7 +2153,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Pop",
       "id": "m827454103",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Lady Gaga. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 157876,
       "rating": 0,
       "poster": "https://picsum.photos/seed/LG7(LadyGaga)/300/450",
@@ -2165,7 +2165,7 @@ export const DATA = {
       "year": 2026,
       "genre": "Country/Pop",
       "id": "m827609572",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Beyoncé. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 399076,
       "rating": 0,
       "poster": "https://picsum.photos/seed/ActIII(Beyoncé)/300/450",
@@ -2177,7 +2177,7 @@ export const DATA = {
       "year": 2026,
       "genre": "K-Pop",
       "id": "m827765370",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Blackpink. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 119270,
       "rating": 0,
       "poster": "https://picsum.photos/seed/NewBlackpinkAlbum/300/450",
@@ -2190,7 +2190,7 @@ export const DATA = {
       "genre": "Pop · R&B",
       "rating": 5,
       "id": "m827921813",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Michael Jackson. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 3484,
       "poster": "https://picsum.photos/seed/Thriller/300/450",
       "trailer": "https://youtube.com/watch?v=sOnqjkJTMaA"
@@ -2202,7 +2202,7 @@ export const DATA = {
       "genre": "Progressive Rock",
       "rating": 4.9,
       "id": "m828077177",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By Pink Floyd. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 8867,
       "poster": "https://picsum.photos/seed/TheDarkSideoftheMoon/300/450",
       "trailer": "https://youtube.com/watch?v=DLOth-BuCNY"
@@ -2214,7 +2214,7 @@ export const DATA = {
       "genre": "Rock",
       "rating": 4.9,
       "id": "m828230350",
-      "desc": "An incredible experience full of twists and turns. Not to be missed.",
+      "desc": "By The Beatles. An incredible experience full of twists and turns. Not to be missed.",
       "votes": 2591,
       "poster": "https://picsum.photos/seed/AbbeyRoad/300/450",
       "trailer": "https://youtube.com/watch?v=UelDrZ1aFeY"
