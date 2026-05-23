@@ -63,9 +63,21 @@ export default function App() {
   const cat = CATEGORIES.find((c) => c.id === activeCat);
   const raw = DATA[activeCat] || [];
   const sorted = sortItems(raw, sort);
-  const displayed = search
-    ? raw.filter((i) => i.title.toLowerCase().includes(search.toLowerCase()))
-    : sorted;
+  let displayed = [];
+  if (search) {
+    const s = search.toLowerCase();
+    displayed = Object.keys(DATA).flatMap(catId => 
+      DATA[catId]
+        .filter(i => 
+          i.title.toLowerCase().includes(s) || 
+          (i.desc && i.desc.toLowerCase().includes(s)) ||
+          (i.poster && i.poster.toLowerCase().includes(s))
+        )
+        .map(i => ({ ...i, originalCatId: catId }))
+    );
+  } else {
+    displayed = sorted;
+  }
 
   const handleSelectCat = (id) => {
     setActiveCat(id);
@@ -235,16 +247,19 @@ export default function App() {
               gap: isMobile ? 10 : 14,
             }}
           >
-            {displayed.map((item) => (
-              <Card
-                key={item.id}
-                item={item}
-                cat={cat}
-                onClick={(i) => setSelected({ item: i, cat })}
-                watchlist={watchlist}
-                setWatchlist={setWatchlist}
-              />
-            ))}
+            {displayed.map((item) => {
+              const itemCat = search ? CATEGORIES.find(c => c.id === item.originalCatId) : cat;
+              return (
+                <Card
+                  key={item.id}
+                  item={item}
+                  cat={itemCat}
+                  onClick={(i) => setSelected({ item: i, cat: itemCat })}
+                  watchlist={watchlist}
+                  setWatchlist={setWatchlist}
+                />
+              );
+            })}
           </div>
 
               {/* No search results */}

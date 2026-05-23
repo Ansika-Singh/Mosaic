@@ -6,12 +6,32 @@ export default function AuthModal({ onClose, onLogin, defaultMode = "login" }) {
   const [mode, setMode] = useState(defaultMode); // "login" or "register"
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [error, setError] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!email || !password) return;
-    if (onLogin) onLogin(email);
-    onClose();
+    
+    // Simulate database
+    const users = JSON.parse(localStorage.getItem("registeredUsers") || "{}");
+    
+    if (mode === "register") {
+      if (users[email]) {
+        setError("An account with this email already exists.");
+        return;
+      }
+      users[email] = password;
+      localStorage.setItem("registeredUsers", JSON.stringify(users));
+      if (onLogin) onLogin(email);
+      onClose();
+    } else {
+      if (users[email] !== password) {
+        setError("Invalid email or password. Please try again or create an account.");
+        return;
+      }
+      if (onLogin) onLogin(email);
+      onClose();
+    }
   };
 
   return (
@@ -79,6 +99,11 @@ export default function AuthModal({ onClose, onLogin, defaultMode = "login" }) {
         </p>
 
         <form onSubmit={handleSubmit} style={{ display: "flex", flexDirection: "column", gap: 16 }}>
+          {error && (
+            <div style={{ color: "#ff4444", fontSize: 12, fontFamily: "monospace", padding: "8px", background: "#ff444420", borderRadius: 8 }}>
+              {error}
+            </div>
+          )}
           <input
             type="email"
             placeholder="Email address"
@@ -137,7 +162,10 @@ export default function AuthModal({ onClose, onLogin, defaultMode = "login" }) {
             {mode === "login" ? "Don't have an account? " : "Already have an account? "}
           </span>
           <button
-            onClick={() => setMode(mode === "login" ? "register" : "login")}
+            onClick={() => {
+              setMode(mode === "login" ? "register" : "login");
+              setError("");
+            }}
             style={{
               background: "transparent",
               border: "none",
